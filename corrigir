@@ -1,0 +1,13 @@
+Ao cadastrar novo usuário com mesmo cpf_cnpj ou email que já tem no banco de dados, 
+não da erro/messages. 
+
+tava vendo no bd errado?
+revisar tipo dos atributos no banco
+
+
+
+Ao recarregar página, campo de senha vem preenchido já.
+
+botão SAIR do submenu não ficou branco.
+
+#
